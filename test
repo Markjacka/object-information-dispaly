@@ -1,0 +1,9 @@
+let person = {
+    name: "sandro",
+    age: 30,
+    occupation: "engineer"
+};
+
+console.log("Name:", person.name);
+console.log("Age:", person.age);
+console.log("Occupation:", person.occupation);
